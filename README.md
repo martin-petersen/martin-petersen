@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hello, nice to meet you <img width="30" src="https://media0.giphy.com/media/LOnt6uqjD9OexmQJRB/giphy.gif" alt="Sunglasses emoji" />
 
 <!--
 **martin-petersen/martin-petersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
